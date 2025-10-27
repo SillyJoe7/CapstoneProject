@@ -12,3 +12,4 @@ C:\Users\bb1045011\Desktop\CapstoneProject\LINK1\obj\Debug\net9.0\refint\LINK1.d
 C:\Users\bb1045011\Desktop\CapstoneProject\LINK1\obj\Debug\net9.0\LINK1.pdb
 C:\Users\bb1045011\Desktop\CapstoneProject\LINK1\obj\Debug\net9.0\LINK1.genruntimeconfig.cache
 C:\Users\bb1045011\Desktop\CapstoneProject\LINK1\obj\Debug\net9.0\ref\LINK1.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\LINK1\obj\Debug\net9.0\LINK1.sourcelink.json
