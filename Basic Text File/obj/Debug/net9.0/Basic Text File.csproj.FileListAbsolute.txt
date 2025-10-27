@@ -1,0 +1,14 @@
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\Basic Text File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\Basic Text File.AssemblyInfoInputs.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\Basic Text File.AssemblyInfo.cs
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\Basic Text File.csproj.CoreCompileInputs.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\bin\Debug\net9.0\Basic Text File.exe
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\bin\Debug\net9.0\Basic Text File.deps.json
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\bin\Debug\net9.0\Basic Text File.runtimeconfig.json
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\bin\Debug\net9.0\Basic Text File.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\bin\Debug\net9.0\Basic Text File.pdb
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\Basic Text File.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\refint\Basic Text File.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\Basic Text File.pdb
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\Basic Text File.genruntimeconfig.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\Basic Text File\obj\Debug\net9.0\ref\Basic Text File.dll

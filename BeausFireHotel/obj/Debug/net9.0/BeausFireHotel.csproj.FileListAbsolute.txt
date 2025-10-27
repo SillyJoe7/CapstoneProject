@@ -1,0 +1,14 @@
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\BeausFireHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\BeausFireHotel.AssemblyInfoInputs.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\BeausFireHotel.AssemblyInfo.cs
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\BeausFireHotel.csproj.CoreCompileInputs.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\bin\Debug\net9.0\BeausFireHotel.exe
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\bin\Debug\net9.0\BeausFireHotel.deps.json
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\bin\Debug\net9.0\BeausFireHotel.runtimeconfig.json
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\bin\Debug\net9.0\BeausFireHotel.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\bin\Debug\net9.0\BeausFireHotel.pdb
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\BeausFireHotel.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\refint\BeausFireHotel.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\BeausFireHotel.pdb
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\BeausFireHotel.genruntimeconfig.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\BeausFireHotel\obj\Debug\net9.0\ref\BeausFireHotel.dll

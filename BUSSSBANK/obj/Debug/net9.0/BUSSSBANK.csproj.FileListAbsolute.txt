@@ -1,0 +1,14 @@
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\BUSSSBANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\BUSSSBANK.AssemblyInfoInputs.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\BUSSSBANK.AssemblyInfo.cs
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\BUSSSBANK.csproj.CoreCompileInputs.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\bin\Debug\net9.0\BUSSSBANK.exe
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\bin\Debug\net9.0\BUSSSBANK.deps.json
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\bin\Debug\net9.0\BUSSSBANK.runtimeconfig.json
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\bin\Debug\net9.0\BUSSSBANK.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\bin\Debug\net9.0\BUSSSBANK.pdb
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\BUSSSBANK.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\refint\BUSSSBANK.dll
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\BUSSSBANK.pdb
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\BUSSSBANK.genruntimeconfig.cache
+C:\Users\bb1045011\Desktop\CapstoneProject\BUSSSBANK\obj\Debug\net9.0\ref\BUSSSBANK.dll
