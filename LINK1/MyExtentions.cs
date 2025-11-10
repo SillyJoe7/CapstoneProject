@@ -27,6 +27,12 @@ public static class MyExtensions
         };
     }
 
+    public static IEnumerable<Product> ExpensiveItems(this IEnumerable<Product> products)
+    {
+        double averagePrice = products.Average(p => p.Price);
+        return products.Where(p => p.Price > averagePrice);
+    }
+
 
 
 

@@ -121,6 +121,26 @@ namespace LINK1
             }
 
 
+            int[] num2 = { 5, 3, 9, 1, 7 };
+            var maxNum = num2.Max(num2 => num2);
+            Console.WriteLine("The max number in the array is " + maxNum);
+
+            var maxPrice = products.Max(product => product.Price);
+            Console.WriteLine("The max price from my products is " + maxPrice);
+
+            int numberOver100 = products.Count(product => product.Price > 100);
+            Console.WriteLine(" I have " + numberOver100 + " products priced over $100");
+
+            var firstDewalt = products.First(product => product.Manufacturer == "Dewalt");
+            Console.WriteLine(firstDewalt);
+
+            var expensiveProducts = products.ExpensiveItems();
+
+            Console.WriteLine("Products more expensive than the average:");
+            foreach (var p in expensiveProducts)
+            {
+                Console.WriteLine($"{p.Description,-15}{p.Price,-10}{p.Manufacturer,-15}");
+            }
 
         }
         static int addOne(int hello)
